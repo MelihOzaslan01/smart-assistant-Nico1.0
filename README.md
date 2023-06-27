@@ -1,4 +1,4 @@
-# Smart Assistant Nico1.0
+# Smart Assistant Nico 1.0
 
   
 
