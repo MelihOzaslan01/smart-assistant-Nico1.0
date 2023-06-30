@@ -1,74 +1,49 @@
 # Smart Assistant Nico 1.0
 
-  
+## About the Project
 
-## Proje Hakkında
+This project includes a smart assistant application called Smart Assistant Nico 1.0. Nico 1.0 can be used to perform various tasks, provide information, or make suggestions to users.
 
-Bu proje, Smart Assistant Nico1.0 adlı bir akıllı asistan uygulamasını içerir. Nico1.0, kullanıcılara çeşitli görevleri gerçekleştirmek, bilgi sağlamak veya önerilerde bulunmak için kullanılabilir.
+## Features
 
-  
+- Understanding and processing voice commands
+- Ability to respond to pre-taught questions
 
-## Özellikler
+## Installation
 
-- Sesli komutları anlama ve işleme
+1. Clone or download this project to your computer.
+2. Use the `requirements.txt` file to install the necessary dependencies.
+3. Run the main application file: `python main.py`
+4. Make sure you have installed the required libraries.
 
-- Kendisine öğretilmiş olan sorulara cevap verebilme 
+## Usage
 
-  
+1. When the application is launched, Nico 1.0 will be ready to activate.
+2. Interact with Nico 1.0 using your microphone or text-based commands.
+3. You will receive feedback from Nico 1.0 or get responses to your commands.
 
-## Kurulum
+## Contribution
 
-1. Bu projeyi bilgisayarınıza klonlayın veya indirin.
+If you would like to contribute to this project, please follow these steps:
 
-2. Gerekli bağımlılıkları yüklemek için `requirements.txt` dosyasını kullanın.
+1. Fork the project to your GitHub account.
+2. Create a new branch with your changes.
+3. Commit your changes.
+4. Send a new pull request with your changes.
 
-3. Ana uygulama dosyasını çalıştırın: `python main.py`
+## License
 
-4.  Gerekli kütüphaneleri kurduğunuzdan emin olun. 
+This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
-  
+## Contact
 
-## Kullanım
+If you have any questions or suggestions regarding the project, please feel free to contact me.
 
-1. Uygulama çalıştırıldığında, Nico1.0 etkinleştirilmeye hazır olacak.
+- Name: Osman Melih Özaslan
+- Email: melihozaslan01@gmail.com
 
-2. Mikrofonunuzla veya metin tabanlı komutlarla Nico1.0 ile etkileşimde bulunun.
+## Acknowledgements
 
-3. Nico1.0 tarafından geri bildirim alacak veya komutlarınıza yanıt alacaksınız.
+I would like to express my infinite gratitude to my students for their support in the development of this project. Thanks to their research and improvements, this project has become much better. Therefore, I owe this appreciation to my students Altay, Efehan, and Serhat.
 
-  
-
-## Katkıda Bulunma
-
-Eğer bu projeye katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
-
-1. Fork (çatal) yaparak projeyi kendi GitHub hesabınıza kopyalayın.
-
-2. Yaptığınız değişikliklerle birlikte yeni bir branch (dal) oluşturun.
-
-3. Yaptığınız değişiklikleri commit (kaydet) edin.
-
-4. Değişikliklerinizle birlikte yeni bir pull request (çekme isteği) gönderin.
-
-  
-
-## Lisans
-
-Bu proje MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
-
-  
-
-## İletişim
-
-Eğer projeyle ilgili herhangi bir sorunuz veya öneriniz varsa, lütfen bana ulaşın.
-
-- İsim: Osman Melih Özaslan
-
-- E-posta: melihozaslan01@gmail.com
-
-## Teşekkür
-
-Bu projenin hazırlanmasında desteklerinden dolayı öğrencilerime sonsuz teşekkürlerimi iletiyorum. onların araştırmaları ve geliştirmeleri ile çok daha iyi hale geldi bu proje bu yüzden Altay, Efehan ve Serhat isimli öğrencilerime bu teşekkürü borç bilirim.
-
-
-# Nico 2.0 Yakında...
+# Nico 2.0 Coming Soon...
